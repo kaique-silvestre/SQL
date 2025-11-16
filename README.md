@@ -1,0 +1,1 @@
+This repository contains my database studies using SQL. It includes queries based on the book Getting Started with SQL by Thomas Nield — focused on SQLite — as well as queries developed during the freeCodeCamp MySQL course
